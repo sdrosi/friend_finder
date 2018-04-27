@@ -3,7 +3,7 @@
 var friends = [
     {
       name: "Gene",
-      picture: "../photos/hipsterthree.jpg",
+      picture: "https://raw.githubusercontent.com/sdrosi/friend_finder/master/photos/hipsterthree.jpg",
       scores: [
           1,
           4,
@@ -19,7 +19,7 @@ var friends = [
     },
     {
       name: "Asher",
-      picture: "../photos/hipsterone.jpg",
+      picture: "https://raw.githubusercontent.com/sdrosi/friend_finder/master/photos/hipsterone.jpg",
       scores: [
           2,
           3,
@@ -35,7 +35,7 @@ var friends = [
     },
     {
       name: "Gulliver",
-      picture: "../photos/hipstertwo.jpg",
+      picture: "https://raw.githubusercontent.com/sdrosi/friend_finder/master/photos/hipstertwo.jpg",
       scores: [
           3,
           2,
